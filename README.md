@@ -56,14 +56,29 @@ To fully reproduce the soil-moisture estimation workflow, follow these steps:
 git clone https://github.com/MedvedEE/IDS2025_B7.git
 ```
 
-### 2. Install Dependencies
+### 2. Create and activate conda environment (optional)
+
+#### 1. Create a new conda environment
+
+```
+conda create -n env
+```
+
+#### 2. Activate the environment
+
+```
+conda activate env
+
+```
+
+### 3. Install dependenciesusing requirements.txt
 
 ```
 pip install -r requirements.txt
 
 ```
 
-### 3. Prepare the Data
+### 4. Prepare the Data
 
 #### 1. Download ISMN soil moisture data and place it in:
 
@@ -84,7 +99,7 @@ data/estonia/
 notebooks/
 ```
 
-### 4. View outplut plots
+### 5. View outplut plots
 
 Figures: ``` results/plots```
 
