@@ -99,8 +99,11 @@ data/estonia/
 notebooks/
 ```
 
-### 5. View outplut plots
+### 4. View outplut plots
 
 Figures: ``` results/plots```
 
+### 5. View predicted data
+
+Figures: ``` results/predictions```
 
