@@ -2,7 +2,7 @@
 
 * This directory contains all the notebooks, that were used during this project. 
 
-## ISMN_data.ipynb
+## data_cleaning.ipynb
 
 * Used for reading the raw ISMN data and cleaning it
 

@@ -38,7 +38,8 @@ Our goals:
 │   └── README.md                 # Data source explanations
 
 ├── notebooks/
-│   ├── ISMN_data.ipynb
+│   ├── data_cleaning.ipynb
+│   ├── development.ipynb
 │   ├── main.ipynb
 
 └── results/
